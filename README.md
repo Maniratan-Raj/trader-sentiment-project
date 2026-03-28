@@ -1,2 +1,18 @@
-# trader-sentiment-project
-The Fear &amp; Greed Trading Sentiment project is a Python-based data analysis tool that studies trading behavior using market sentiment concepts. It analyzes execution data like price and accounts to classify market conditions into Fear and Greed, helping understand how emotions influence trading decisions.
+# Trader Performance vs Market Sentiment
+
+## Objective
+Analyze how Fear/Greed sentiment affects trader behavior.
+
+## Steps
+- Data cleaning
+- Feature engineering
+- Analysis
+
+## Insights
+1. Greed days show higher leverage usage
+2. Fear days show lower profitability
+3. Frequent traders perform better
+
+## Strategies
+1. Reduce leverage during Fear
+2. Increase trades during Greed
